@@ -15,9 +15,12 @@ Aug 18, 2021 – Dec 11, 2021
 Tu/Th 1:15PM - 2:30PM
 
 ## Textbooks:
+* ![OOP Process](images/oop-thought_.jpg)
 * "The Object-Oriented Thought Process", Fifth Edition by Matt Weisfeild, Addison-Wesley,
 ISBN-10: 0201760312
+![java](images/java-deitel.jpg)
 * "Java, How to program (early objects) Paul Deitel, Harvey Deitel, Pearson, (2017) 11th Edition ISBN: 9780134751962.
+![Clean Code](images/clean-code.jpg)
 * "Clean Code: A Handbook of Agile Software Craftsmanship" , by Robert Martin, (2008) ISBN13: 978-0132350884
 
 ## Student Learning Outcomes
