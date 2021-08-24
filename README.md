@@ -14,6 +14,9 @@ Aug 18, 2021 – Dec 11, 2021
 ## Times: 
 Tu/Th 1:15PM - 2:30PM
 
+## Office Hours:
+Tu/Th 11:00AM - 12:00 Noon, or by appointment
+
 ## Textbooks:
 * ![OOP Process](images/oop-thought_.jpg)
 * "The Object-Oriented Thought Process", Fifth Edition by Matt Weisfeild, Addison-Wesley,
