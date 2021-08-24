@@ -31,3 +31,8 @@ Students will be able to:
 * Perform successfully on teams to accomplish a common goal, and communicate effectively in written and oral form.
 
 ## Sal Volcano
+
+
+### Computer: 
+You will need a computer with a modern operating system installed and an internet
+connection sufficient for connecting to zoom meetings. You will also need to have sufficient permissions on that computer to install development software and tools.
